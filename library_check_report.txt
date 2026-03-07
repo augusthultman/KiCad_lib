@@ -1,0 +1,22 @@
+================================================================================
+KiCad Library Verification Report - SMD Resistors & Capacitors
+================================================================================
+
+Total components checked: 120
+  Resistors: 0
+  Capacitors: 120
+  Other/Unknown: 0
+
+Status Summary:
+  ✓ Verified: 0
+  ✗ Not found: 60
+  ⚠ Warnings: 60
+  ⚠ Errors: 0
+  ! Components with issues: 0
+
+
+================================================================================
+COMPONENTS NOT FOUND IN DATABASE
+================================================================================
+
+[CAP_0402_1p_6.3V_NP0_5%] (Line 2) - CAPACITOR

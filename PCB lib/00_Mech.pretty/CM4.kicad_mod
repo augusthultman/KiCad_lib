@@ -1,0 +1,154 @@
+(footprint "CM4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6ec6876c-2fbb-4215-b97e-6765f65b722b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CM4"
+		(at 14.5 -21.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4561f859-85b7-44e3-a5fe-4b2a1a60bee0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "689dba24-97de-4854-a7ce-7c13bb827a82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0106d242-09b1-4a66-8e85-db1614c9a6d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.5 -48)
+		(end -3.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc2f9c61-4f89-46ae-b977-96eabe7c6f02")
+	)
+	(fp_line
+		(start 0 3.5)
+		(end 33 3.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a068d6f8-d9fb-4197-baa5-7a4bb5035df9")
+	)
+	(fp_line
+		(start 33 -51.5)
+		(end 0 -51.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9d37962-23a5-40a1-be7c-1251e37e3367")
+	)
+	(fp_line
+		(start 36.5 0)
+		(end 36.5 -48)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "52d3bfff-3440-4f6d-9b82-3062a6f705aa")
+	)
+	(fp_arc
+		(start -3.5 -48)
+		(mid -2.474874 -50.474874)
+		(end 0 -51.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2f27b9db-2014-4f61-bd8f-ce91cd43e888")
+	)
+	(fp_arc
+		(start 0 3.5)
+		(mid -2.474874 2.474874)
+		(end -3.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc5cbe87-7981-4c3d-ad7b-d53ff253f61f")
+	)
+	(fp_arc
+		(start 33 -51.5)
+		(mid 35.474874 -50.474874)
+		(end 36.5 -48)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5f4b3183-c42e-4d6f-bdb0-097c63ca5378")
+	)
+	(fp_arc
+		(start 36.5 0)
+		(mid 35.474874 2.474874)
+		(end 33 3.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ead0b28-8736-4e91-b9de-a4770e53f37a")
+	)
+	(embedded_fonts no)
+	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_Mech.pretty/cm-min.step"
+		(offset
+			(xyz -19.5 51.5 1.87)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)
