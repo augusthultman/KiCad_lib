@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0.425 -12.635 0)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "938c5a81-046e-49e4-b92f-b815763eea3c")
 		(effects
 			(font
@@ -17,6 +17,7 @@
 	(property "Value" "HARWIN_M20-7920242R"
 		(at 0 6 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "908591e9-6715-48b8-aba9-a18b4d8a03ba")
 		(effects
 			(font

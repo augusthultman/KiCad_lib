@@ -7,7 +7,7 @@
 	(tags "Connector")
 	(property "Reference" "J**"
 		(at 3.5 -19 0)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(uuid "68f0ec8c-b48e-45ed-9d54-0e10019beb32")
 		(effects
 			(font
