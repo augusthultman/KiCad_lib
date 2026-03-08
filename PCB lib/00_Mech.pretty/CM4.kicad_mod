@@ -140,7 +140,7 @@
 		(uuid "0ead0b28-8736-4e91-b9de-a4770e53f37a")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_Mech.pretty/cm-min.step"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_Mech.pretty/cm-min.step"
 		(offset
 			(xyz -19.5 51.5 1.87)
 		)

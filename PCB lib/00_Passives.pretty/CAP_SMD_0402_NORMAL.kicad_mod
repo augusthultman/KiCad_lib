@@ -168,7 +168,7 @@
 		(uuid "17b7761a-1773-4fe9-9796-d0f872729f92")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_Passives.pretty/Capacitors/CAPC-0402-T0.55-BN.stp"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_Passives.pretty/Capacitors/CAPC-0402-T0.55-BN.stp"
 		(offset
 			(xyz 0 0 0)
 		)

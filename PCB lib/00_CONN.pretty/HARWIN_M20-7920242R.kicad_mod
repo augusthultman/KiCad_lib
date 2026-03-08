@@ -221,7 +221,7 @@
 		(uuid "44420e05-cf4f-4bca-b7d3-32e00b96ff05")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_CONN.pretty/m20-7920242r.stp"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_CONN.pretty/m20-7920242r.stp"
 		(offset
 			(xyz 1.27 0 2.54)
 		)

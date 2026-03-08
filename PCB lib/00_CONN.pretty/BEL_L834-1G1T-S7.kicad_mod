@@ -756,7 +756,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_CONN.pretty/L834-1G1T-S7.step"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_CONN.pretty/L834-1G1T-S7.step"
 		(offset
 			(xyz 0 -2.18 0)
 		)

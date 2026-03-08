@@ -373,7 +373,7 @@
 		(uuid "74f01465-8102-4edb-b265-1b06b6a5a3bc")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_CONN.pretty/T_Wurth_WE-RJ45LAN_7498111120AR.wrl"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_CONN.pretty/T_Wurth_WE-RJ45LAN_7498111120AR.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

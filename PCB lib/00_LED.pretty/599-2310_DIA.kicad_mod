@@ -366,7 +366,7 @@
 		(uuid "da131c64-1039-4a8d-9f6e-06d57505b6e6")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_LED.pretty/599-2310-427F.step"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_LED.pretty/599-2310-427F.step"
 		(offset
 			(xyz 0 0 0)
 		)

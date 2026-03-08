@@ -168,7 +168,7 @@
 		(uuid "7f826142-ad8c-4908-96a1-05c9e9530d04")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_Passives.pretty/Resistors/RESC-0805.stp"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_Passives.pretty/Resistors/RESC-0805.stp"
 		(offset
 			(xyz 0 0 0)
 		)

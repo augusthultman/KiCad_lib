@@ -371,7 +371,7 @@
 		(uuid "4c488883-4b10-4773-bf52-3a6087187310")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_CONN.pretty/J0G-0009NL.step"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_CONN.pretty/J0G-0009NL.step"
 		(offset
 			(xyz 5.1 7.75 0)
 		)

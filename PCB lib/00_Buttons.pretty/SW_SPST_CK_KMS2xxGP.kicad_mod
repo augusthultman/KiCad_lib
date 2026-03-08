@@ -255,7 +255,7 @@
 		(uuid "f55d981b-9aa5-42c3-9ede-9f7fa9e13baf")
 	)
 	(embedded_fonts no)
-	(model "//wsl.localhost/Ubuntu/home/august/projects/KiCad_lib/PCB lib/00_Buttons.pretty/KMS221GPLFS.stp"
+	(model "${KIPRJMOD}/libs/KiCad_lib/PCB lib/00_Buttons.pretty/KMS221GPLFS.stp"
 		(offset
 			(xyz 0 0 0)
 		)
